@@ -16,4 +16,4 @@ Anyway, about me. I like staying fit and body weight exercises as well as gettin
 
 ### Contact me
 
-[spencertollefson@gmail.com](mailto:spencertollefson@gmail.com)
+[spencer@spencertollefson.com](mailto:spencer@spencertollefson.com)
