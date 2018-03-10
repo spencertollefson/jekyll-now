@@ -3,7 +3,7 @@ layout: post
 title: Update with Pandas and ISLR
 ---
 
-# Time for another blog post! Quick update of the four main topics I've been focused on for about the last 2 weeks:
+#### Time for another blog post! Quick update of the four main topics I've been focused on for the last 2 weeks:
 
 **1)** I've been consuming data science and python podcasts like no other. Talk Python to Me, Partially Derivative, Command_line Heroes, CodeNewbie, Data Skeptic, Linear Digressions, Learn to Code with Me, Test & Code, and Python Bytes --- to all those responsible for making those podcasts - THANK YOU! YOU HAVE A FAN IN ME!
 
